@@ -75,12 +75,6 @@ $ yarn build
 | IE11, Edge| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions
 
 
-## 参与贡献
 
-我们非常欢迎你的贡献，你可以通过以下方式和我一起共建 :smiley:：
-
-- 通过 [Issue](https://github.com/hanyueqiang/umi-ts-app/issues) 报告 bug 或进行咨询。
-- 提交 [Pull Request](https://github.com/hanyueqiang/umi-ts-app/pulls) 改进代码。
-- 微信交流（备注来自`Github`），微信号：han2013555888
 
 
