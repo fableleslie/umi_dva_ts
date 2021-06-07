@@ -56,7 +56,9 @@ const Datas: FC<DatasProps> = ({ datas, dispatch, loading }) => {
   };
 
   // 确定上传导入数据
-  const handleOkUpload = () => {};
+  const handleOkUpload = () => {
+    console.log('确定上传');
+  };
 
   // 取消上传弹框
   const cancelUpload = () => {
